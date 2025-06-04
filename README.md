@@ -10,7 +10,7 @@ https://youtu.be/jd64jJgCw5s
 
 This project implements Cloud DNS routing policies that enable geographic traffic steering. When users make DNS requests, they are automatically directed to the closest server based on their location, improving performance and user experience.
 
-### Architecture
+### Architecture 
 
 The setup includes:
 - **Client VMs**: Deployed in 3 regions (US, Europe, Asia) for testing
