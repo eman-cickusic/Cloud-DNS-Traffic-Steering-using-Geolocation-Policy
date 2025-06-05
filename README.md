@@ -4,7 +4,7 @@ A comprehensive implementation of Google Cloud DNS routing policies using geoloc
 
 ## Video
 
-https://youtu.be/jd64jJgCw5s
+https://youtu.be/jd64jJgCw5s 
 
 ## Overview
 
